@@ -1,0 +1,26 @@
+[
+    {
+        "index": 0,
+        "name": "스터바이",
+        "species": "Corydoras Sterbai",
+        "size": "5.1-6.6 cm",
+        "location": "Guaporé River",
+        "description": "Sterba's corydoras (Corydoras sterbai) is a member of the South American Corydoras genus of freshwater aquarium catfish and one of the most popular species of Corydoras due to its attractive markings. The fish is native to the Guaporé River region between Bolivia and Brazil. Sterbas cory is distinguishable from other Corydoras species as it has white spots on a black background on its head. It is occasionally confused with Corydoras haraldschultzi; the difference is that the latter has a pattern of black dots on a white background on the head. C. sterbai has recently become available in an albino form and a black form. Like many Corydoras species, Sterba's corydoras is a shoaling catfish, and thus should ideally be kept in groups of 5 or more. In the wild it can be found in Brazil and thus, wild caught fish prefer soft, acidic water. However, Sterba's corydoras is a hardy fish and tank bred specimens have adapted to a wider range of water conditions. However, like almost all fish it will not tolerate high levels of nitrates. Unlike some other catfish they are not good algae eaters, but are good at cleaning up leftover food and detritus from the substrate. Corydoras sterbai are relatively small for catfish, growing to a maximum size of only 2–2.6 inches (5.1–6.6 cm)."
+    },
+    {
+        "index": 1,
+        "name": "아쿠아투스",
+        "species": "Corydoras arcuatus",
+        "size": "5.0-5.5 cm.",
+        "location": "middle Juruá River, Javari River",
+        "description": "Corydoras arcuatus is a species of freshwater fish in the armored catfish family Callichthyidae.[1] It is restricted to the western Amazon basin, where only known from small blackwater or clearwater streams in the middle Juruá River basin, the Javari River basin and streams near Leticia in western Brazil, far northeastern Peru and far southeastern Colombia."
+    },
+    {
+        "index": 2,
+        "name": "아돌포이",
+        "species": "Corydoras adolfoi",
+        "size": "5.7mm",
+        "location": "upper Rio Negro.",
+        "description": "Adolfo's catfish (Corydoras adolfoi) is a tropical freshwater fish belonging to the Corydoradinae sub-family of the family Callichthyidae. It originates in inland waters in South America, and is found in the Rio Negro basin and the Rio Uapes in Brazil.[2] It is also known as Adolfo's corydoras. It has similar patterns to the C. imitator but it has a shorter snout and red coloration in front of its dorsal fin. The fish will grow in length up to 2.2 inches (5.7 centimeters). It feeds on worms, benthic crustaceans, insects, and plant matter. The fish spawn in open water and 1-2 large (ca. 2 mm in diameter), sticky eggs are attached to a plant or stone. Adults do not guard the eggs. The number of eggs is relatively small (several tens per spawn from one female). At 26 °C the fry hatch after four days and start to eat after another four days."
+    }
+]
