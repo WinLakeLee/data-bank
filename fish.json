@@ -1,7 +1,7 @@
 [
     {
         "index": 0,
-        "name": "스터바이",
+        "name": "sterbai",
         "species": "Corydoras Sterbai",
         "size": "5.1-6.6 cm",
         "location": "Guaporé River",
@@ -9,7 +9,7 @@
     },
     {
         "index": 1,
-        "name": "아쿠아투스",
+        "name": "arcuatus",
         "species": "Corydoras Arcuatus",
         "size": "5.0-5.5 cm.",
         "location": "middle Juruá River, Javari River",
@@ -17,7 +17,7 @@
     },
     {
         "index": 2,
-        "name": "아돌포이",
+        "name": "adolfoi",
         "species": "Corydoras Adolfoi",
         "size": "5.7mm",
         "location": "upper Rio Negro.",
