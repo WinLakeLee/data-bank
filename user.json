@@ -1,0 +1,52 @@
+[
+  {
+    "username": "sarah.connor",
+    "email": "sconnor84@gmail.com",
+    "password": "T!g3r$2021"
+  },
+  {
+    "username": "michael_b",
+    "email": "michael.b@outlook.com",
+    "password": "BlueSky_99!"
+  },
+  {
+    "username": "julia89",
+    "email": "julia89@yahoo.com",
+    "password": "Pa$$w0rd123!"
+  },
+  {
+    "username": "david.liu",
+    "email": "dliu21@gmail.com",
+    "password": "SecureMe@456"
+  },
+  {
+    "username": "emma_rose",
+    "email": "emma.rose@mail.com",
+    "password": "Emm@2022love"
+  },
+  {
+    "username": "nathan.w",
+    "email": "nathan.w@protonmail.com",
+    "password": "NatW_789$"
+  },
+  {
+    "username": "lisa_martin",
+    "email": "lisa_martin23@gmail.com",
+    "password": "L1sa_Martin!"
+  },
+  {
+    "username": "kevin.park",
+    "email": "kevinpark77@hotmail.com",
+    "password": "K3vPark!234"
+  },
+  {
+    "username": "olivia.j",
+    "email": "olivia.j@example.com",
+    "password": "Olivia#2023"
+  },
+  {
+    "username": "ryan_tech",
+    "email": "ryan.tech@icloud.com",
+    "password": "Tech_G33k42!"
+  }
+]
